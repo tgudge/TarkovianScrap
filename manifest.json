@@ -1,6 +1,6 @@
 {
     "name": "TarkovianScrap",
-    "version_number": "1.0.3",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/tgudge/TarkovianScrap/",
     "description": "Adds Tarkov items and Melee Weapons to Lethal Company",
     "dependencies": [
