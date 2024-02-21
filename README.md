@@ -1,7 +1,7 @@
 # Tarkovian Scrap
 
 ## Description:
-Adds 18 new scraps and 3 new weapons from Escape from Tarkov to Lethal Company!
+Adds 23 new scraps and 3 new weapons from Escape from Tarkov to Lethal Company!
 
 Will be adding loads more items in future!
 
@@ -15,17 +15,27 @@ Will be adding loads more items in future!
 - Encoded DSP radio transmitter (Noisemaker)
 - HK G36
 - Gas Analyzer
-- Golden Rooster Figurine
 - GPU
 - Secure Container Kappa
 - Killa's Helmet
 - Labs Access Keycard
 - LEDx Transilluminator
-- Raven Figurine
 - Tank Battery
-- Tetriz
+- Tetriz Portable Game Console
+- Streamer Items
+    - Raven Figurine
+    - Golden Rooster Figurine
+    - Summit 1G Phone  _**(NEW)**_
+    - 42nd Signature Blend English Tea _**(NEW)**_
+    - Deadlyslob's Beard Oil _**(NEW)**_
+    - Dr Lupo's Coffee Beans _**(NEW)**_
+    - Loot Lord Plushie _**(NEW)**_
 
 ## New Melee Weapons:
 - Red Rebel Ice Pick
 - UVSR Taiga-1 survival machete
 - Superfors DB2020 Dead Blow Hammer
+
+### Changelog
+
+* 1.0.3 - Fixed spawn rates of some items, added _**(NEW)**_ items.
